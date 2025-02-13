@@ -1,43 +1,51 @@
-*Electricity Billing System*
-This is a Java-based Electricity Billing System developed as part of a mini-project. It features a user-friendly interface built with Java Swing and integrates with MySQL using JDBC for database operations. The system allows users to manage customer information, generate and pay bills, and view billing details efficiently.
+⚡ Electricity Billing System ⚡
+A smart and efficient way to manage electricity billing!
 
-*Features* 
-Splash Screen: Displays a welcoming splash screen when the application starts.
-Login System: Secure login for operators and administrators.
-Main Dashboard: Central control panel for navigating the system's features.
-Add Customer: Register new customers with personal and contact information.
-Generate Bill: Create electricity bills based on consumption.
-Pay Bill: Manage bill payments for customers.
-Show Details: View detailed information of registered customers.
-Last Bill: Display the most recent bill generated for a customer.
-Database Integration: All data is stored and managed using MySQL.
+This is a Java-based Electricity Billing System developed as part of a mini-project. Designed with Java Swing, it integrates seamlessly with MySQL using JDBC for secure and efficient database operations. The system allows users to manage customer records, generate and pay bills, and view billing history with ease.
 
-*Technologies Used*
-Java (Swing for GUI)
-MySQL (Database)
-JDBC (Java Database Connectivity)
-NetBeans/VS Code (IDE for development)
+🌟 Key Features
+🖥️ Splash Screen – A stylish welcome screen on startup.
+🔑 Secure Login – Authentication system for operators and administrators.
+📊 Main Dashboard – Centralized panel for easy navigation.
+🆕 Customer Management – Add new customers with personal & contact details.
+⚡ Bill Generation – Automatically create electricity bills based on usage.
+💳 Bill Payment – Manage and process payments securely.
+📄 Customer Details – View and edit registered customer information.
+🧾 Last Bill Record – Retrieve the most recent bill for any customer.
+📡 Database Integration – MySQL ensures secure and reliable data storage.
 
-*Prerequisites*
-Before running the project, ensure you have the following installed:
-Java JDK 8 or higher
-MySQL Server
-JDBC Connector (add mysql-connector-java.jar to your project library)
-NetBeans, VS Code, or any preferred Java IDE
+🔧 Technologies Used
+🚀 Java (Swing for GUI) – User-friendly interface.
+🗄️ MySQL – Secure & structured database management.
+🔗 JDBC (Java Database Connectivity) – For seamless DB communication.
+🛠️ NetBeans / VS Code – Development environment.
 
-*Contributing*
-Feel free to fork this repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss the proposed changes.
+🏗️ Prerequisites
+Before running the project, make sure you have the following installed:
 
-*License*
-This project is licensed under the MIT License.
+✅ Java JDK 8 or higher – To run Java programs.
+✅ MySQL Server – For database operations.
+✅ JDBC Connector – Add mysql-connector-java.jar to your project.
+✅ NetBeans, VS Code, or any Java IDE – For development.
 
-*Contact*
-Sriram Nagendra,
-Ravuru Sai Vikas,
-Nimmani Rishik
+🚀 How to Contribute
+We 💙 open-source contributions!
 
-GitHub Profile
+1️⃣ Fork the repository
+2️⃣ Make your improvements
+3️⃣ Submit a pull request 🚀
 
-https://github.com/Nagendrasriram
-https://github.com/Rishik3105
-https://github.com/saivikasravuru
+For major changes, open an issue first to discuss your ideas.
+
+📜 License
+🔖 This project is licensed under the MIT License.
+
+📩 Contact the Developers
+👨‍💻 Sriram Nagendra
+🔗 GitHub: https://github.com/Nagendrasriram
+
+👨‍💻 Ravuru Sai Vikas
+🔗 GitHub: https://github.com/saivikasravuru
+
+👨‍💻 Nimmani Rishik
+🔗 GitHub: https://github.com/Rishik3105
